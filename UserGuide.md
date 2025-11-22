@@ -170,9 +170,8 @@ This is optional.
 Suggested roadmap:
 
 * Auto-detect UI changes and capture screenshots.
-* Cloud upload.
-* Jira integration.
-* PDF export.
+* Preview Screenshots realtime
+* Jira integration directly from the tool
 
 ---
 
