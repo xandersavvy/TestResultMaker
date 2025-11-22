@@ -1,3 +1,7 @@
+# How to Use
+- [User Guide](./UserGuide.md)
+- [Download Exe](./dist/TestEvidenceHelper.exe)
+
 # Convert ot exe
 
 ````ps
