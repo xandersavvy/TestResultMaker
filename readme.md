@@ -1,6 +1,9 @@
 # How to Use
 - [User Guide](./UserGuide.md)
 - [Download Exe](./dist/TestEvidenceHelper.exe)
+  
+  Watch the demo video from clicking on the below image
+  [![Watch the Demo Video](https://img.youtube.com/vi/wgxNqTJcUU4/0.jpg)](https://www.youtube.com/watch?v=wgxNqTJcUU4)
 
 # Test Evidence Helper
 
